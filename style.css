@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+html {
+	background: #fcfcfc;
+}
+
+body {
+	text-align: center;
+}
+
+h1 {
+	display: none;
+}
+
+h2, p {
+	line-height: 55px;
+	text-shadow: 0 1px #fff;
+	font-style: italic;
+	display: inline;
+}
+
+h2 {
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	font-weight: normal;
+}
+
+h2, h2 a, p, p a {
+	color: #111;
+}
+
+p {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Geneva, sans-serif;
+	font-size: 13px;
+}
+
+p + h2:before, h2 + h2:before, h1 + h2:before {
+	content: "\A";
+	white-space: pre;
+}
+
+a:hover {
+	color: #00e;
+}
+
+a:active {
+	color: #e00;
+}
