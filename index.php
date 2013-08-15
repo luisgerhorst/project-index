@@ -16,6 +16,9 @@ $title = $dom->find('h1')[0]->plaintext;
 <head>
 	
 	<meta charset="utf-8">
+	<meta name="viewport" content="initial-scale=1"/>
+	<meta name="robots" content="all">
+	<meta name="date" content="2013-08-14 14:32">
 	
 	<title><?php echo $title; ?></title>
 	
@@ -23,8 +26,12 @@ $title = $dom->find('h1')[0]->plaintext;
 	
 </head>
 <body>
+
+	<div id="box">
 	
-	<?php echo $html; ?>
+		<?php echo $html; ?>
+	
+	</div>
 	
 </body>
 </html>
