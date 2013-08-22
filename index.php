@@ -1,7 +1,7 @@
 <?php
 
-require_once('Parsedown.php');
-require_once('simple_html_dom.php');
+require_once('parsedown.php');
+require_once('simple-html-dom.php');
 
 $md = file_get_contents('index.md');
 $html = Parsedown::instance()->parse($md);
