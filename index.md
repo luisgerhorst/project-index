@@ -1,26 +1,26 @@
 Luis Gerhorst's Projects
 ===
 
-**Teletype** *[GitHub](https://github.com/luisgerhorst/teletype), [Example](http://klausgerhorst.de/)*
+**Teletype** *[Example](http://klausgerhorst.de/), [GitHub](https://github.com/luisgerhorst/teletype)*
 
-**CCMS** *[GitHub](https://github.com/luisgerhorst/ccms), [Demo](http://ccms.lsgh.me/)*
+**CCMS** *[Demo](http://ccms.lsgh.me/), [GitHub](https://github.com/luisgerhorst/ccms)*
 
-**Chat v3** *[GitHub](https://github.com/luisgerhorst/chat-v3), [Demo](http://luisgerhorst.de:9004/)*
+**Chat v3** *[Demo](http://luisgerhorst.de:9004/), [GitHub](https://github.com/luisgerhorst/chat-v3)*
 
-**Clock** *[GitHub](https://github.com/luisgerhorst/clock), [Visit](clock)*
+**Clock** *[Visit](clock), [GitHub](https://github.com/luisgerhorst/clock)*
 
-**Chat v2** *[GitHub](https://github.com/luisgerhorst/chat-v2), [Demo](http://luisgerhorst.de:9001/)*
+**Chat v2** *[Demo](http://luisgerhorst.de:9001/), [GitHub](https://github.com/luisgerhorst/chat-v2)*
 
-**Chat v1** *[GitHub](https://github.com/luisgerhorst/chat-v1), [Demo](chat-v1)*
+**Chat v1** *[Demo](chat-v1), [GitHub](https://github.com/luisgerhorst/chat-v1)*
 
-**Instachat** *[GitHub](https://github.com/luisgerhorst/instachat), [Demo](instachat)*
+**Instachat** *[Demo](instachat), [GitHub](https://github.com/luisgerhorst/instachat)*
 
-**Chat v0** *[GitHub](https://github.com/luisgerhorst/chat-v0), [Demo](chat-v0)*
+**Chat v0** *[Demo](chat-v0), [GitHub](https://github.com/luisgerhorst/chat-v0)*
 
 **[Cloudy](http://cloudy.luisgerhorst.de)**
 
 **[Beautiful Web](http://beautifulweb.tumblr.com)**
 
-**Lab** *[GitHub](https://github.com/luisgerhorst/lab), [Visit](lab)*
+**Lab** *[Visit](lab), [GitHub](https://github.com/luisgerhorst/lab)*
 
 **[Dark Things](http://darkthings.luisgerhorst.de)**
