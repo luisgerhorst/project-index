@@ -1,6 +1,8 @@
 Luis Gerhorst's Projects
 ===
 
+**eChat** *[GitHub](https://github.com/luisgerhorst/echat)*
+
 **Teletype** *[Example](http://klausgerhorst.de/), [GitHub](https://github.com/luisgerhorst/teletype)*
 
 **CCMS** *[Demo](http://ccms.lsgh.me/), [GitHub](https://github.com/luisgerhorst/ccms)*
