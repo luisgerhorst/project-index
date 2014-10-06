@@ -1,5 +1,3 @@
-/* lastmod 2013-08-15 23:47 + 02:00 */
-
 * {
 	margin: 0;
 	padding: 0;
@@ -8,10 +6,14 @@
 
 html {
 	background: #f9f9f9;
+	line-height: 1em;
+	font-size: 80%;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Geneva, sans-serif;
 }
 
 body {
-	text-align: left;
+	text-align: center;
+	position: relative;
 }
 
 h1 {
@@ -19,23 +21,18 @@ h1 {
 }
 
 #box {
-	width: 256px;
+	max-width: 90%;
+	display: inline-block;
+	text-align: left;
 	border-radius: 4px;
-	margin: 128px auto;
+	margin: 3rem 0 3rem 0;
 	border: 1px solid #333;
-	box-shadow: 0 1px #fff, inset 0 1px #fff;
 }
 
 p {
-	font-family: "Lucida Grande", "Lucida Sans Unicode", Geneva, sans-serif;
-	font-size: 13px;
-	line-height: 13px;
-	text-shadow: 0 1px #fff;
-	font-style: normal;
-	display: block;
-	padding: 13px;
+	padding: 0 1em 1em 1em;
 	border-top: 1px solid #333;
-	box-shadow: inset 0 1px #fff;
+	overflow: auto;
 }
 
 h1 + p {
@@ -46,25 +43,39 @@ h1 + p {
 p strong {
 	font-style: normal;
 	font-weight: normal;
-	text-decoration: underline;
+	text-decoration: none;
+	margin-right: 2em;
+	display: block;
+	float: left;
+	margin-top: 1em;
 }
 
 p em {
 	font-style: normal;
+	color: #888;
+	display: block;
+	float: right;
+	margin-top: 1em;
 }
 
 p em:before {
-	content: "→ ";
-}
-
-p, p a {
+	content: "";
 	color: #333;
 }
 
+p a {
+	color: #333;
+	text-decoration: underline;
+}
+
+p em a {
+	color: #888;
+}
+
 a:hover {
-	color: #33f;
+	color: #00f;
 }
 
 a:active {
-	color: #f33;
+	color: #f00;
 }

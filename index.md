@@ -1,6 +1,10 @@
 Luis Gerhorst's Projects
 ===
 
+**[Klaus Gerhorst | Architekt](http://klausgerhorst.de/)** *[Theme](https://github.com/luisgerhorst/teletype)*
+
+**Landingpages für Angela Dietz** *[Biologisch Führen](http://www.biologisch-fuehren.de), u.a.*
+
 **eChat** *[GitHub](https://github.com/luisgerhorst/echat)*
 
 **Teletype** *[Example](http://klausgerhorst.de/), [GitHub](https://github.com/luisgerhorst/teletype)*
@@ -9,7 +13,7 @@ Luis Gerhorst's Projects
 
 **Chat v3** *[Demo](http://luisgerhorst.de:9004/), [GitHub](https://github.com/luisgerhorst/chat-v3)*
 
-**Clock** *[Visit](clock), [GitHub](https://github.com/luisgerhorst/clock)*
+**[Clock](clock)** *[GitHub](https://github.com/luisgerhorst/clock)*
 
 **Chat v2** *[Demo](http://luisgerhorst.de:9001/), [GitHub](https://github.com/luisgerhorst/chat-v2)*
 
@@ -23,6 +27,6 @@ Luis Gerhorst's Projects
 
 **[Beautiful Web](http://beautifulweb.tumblr.com)**
 
-**Lab** *[Visit](lab), [GitHub](https://github.com/luisgerhorst/lab)*
+**[Lab](lab)** *[GitHub](https://github.com/luisgerhorst/lab)*
 
 **[Dark Things](http://darkthings.luisgerhorst.de)**
