@@ -28,9 +28,7 @@ $title = $dom->find('h1')[0]->plaintext;
 <body>
 
 	<div id="box">
-	
 		<?php echo $html; ?>
-	
 	</div>
 	
 </body>

@@ -1,10 +1,6 @@
 Luis Gerhorst's Projects
 ===
 
-**[Klaus Gerhorst | Architekt](http://klausgerhorst.de/)** *[Theme](https://github.com/luisgerhorst/teletype)*
-
-**Landingpages für Angela Dietz** *[Biologisch Führen](http://www.biologisch-fuehren.de), u.a.*
-
 **eChat** *[GitHub](https://github.com/luisgerhorst/echat)*
 
 **Teletype** *[Example](http://klausgerhorst.de/), [GitHub](https://github.com/luisgerhorst/teletype)*

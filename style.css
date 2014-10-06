@@ -6,14 +6,13 @@
 
 html {
 	background: #f9f9f9;
-	line-height: 1em;
+	line-height: 1.61em;
 	font-size: 80%;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", Geneva, sans-serif;
 }
 
 body {
 	text-align: center;
-	position: relative;
 }
 
 h1 {
@@ -21,17 +20,17 @@ h1 {
 }
 
 #box {
-	max-width: 90%;
 	display: inline-block;
+	
 	text-align: left;
 	border-radius: 4px;
-	margin: 3rem 0 3rem 0;
-	border: 1px solid #333;
+	margin: 4rem 0 4rem 0;
+	border: 1px solid #888;
 }
 
 p {
-	padding: 0 1em 1em 1em;
-	border-top: 1px solid #333;
+	padding: 1em;
+	border-top: 1px solid #888;
 	overflow: auto;
 }
 
@@ -44,18 +43,12 @@ p strong {
 	font-style: normal;
 	font-weight: normal;
 	text-decoration: none;
-	margin-right: 2em;
-	display: block;
-	float: left;
-	margin-top: 1em;
 }
 
 p em {
+	display: block;
 	font-style: normal;
 	color: #888;
-	display: block;
-	float: right;
-	margin-top: 1em;
 }
 
 p em:before {
@@ -78,4 +71,19 @@ a:hover {
 
 a:active {
 	color: #f00;
+}
+
+@media screen and (min-width: 800px) {
+
+	p strong {
+		display: block;
+		float: left;
+		margin-right: 2em;
+	}
+
+	p em {
+		display: block;
+		float: right;
+	}
+
 }
