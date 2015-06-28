@@ -1,5 +1,9 @@
-Luis Gerhorst's Projects
+Luis Gerhorst's Personal Projects
 ===
+
+**Rdio API (Erlang)** *[GitHub](https://github.com/luisgerhorst/rdio_api)*
+
+**LV Konverter** *[GitHub](https://github.com/luisgerhorst/LV-Konverter)*
 
 **eChat** *[GitHub](https://github.com/luisgerhorst/echat)*
 
@@ -7,7 +11,7 @@ Luis Gerhorst's Projects
 
 **CCMS** *[Demo](http://ccms.lsgh.me/), [GitHub](https://github.com/luisgerhorst/ccms)*
 
-**Chat v3** *[Demo](http://luisgerhorst.de:9004/), [GitHub](https://github.com/luisgerhorst/chat-v3)*
+**Chat v3** *[GitHub](https://github.com/luisgerhorst/chat-v3)*
 
 **[Clock](clock)** *[GitHub](https://github.com/luisgerhorst/clock)*
 
